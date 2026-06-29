@@ -22305,8 +22305,8 @@ message PJOHPBFLEPL {
 // CmdId: 8067 | MergeFrom: - | WriteTo: 0xA20A1D0
 message EJIAIGDFPCO {
   uint32 NIHCONCNGPG = 3;
+  map<uint32, int32> KCJKJLNKCHK = 4;
   uint32 EJIJFPINOKP = 8;
-  map<uint32, int32> KCJKJLNKCHK = 9;
   map<uint32, int32> MEAKOMHFOCC = 9;
   uint32 HCKJEPCEIHA = 14;
 }
